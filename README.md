@@ -5,7 +5,7 @@ An Alfred workflow that enters the current one-time password (OTP) into current 
 
 
 It will overwrite the contents of the clipboard, and uses the [OATH
-Toolkit](http://www.nongnu.org/oath-toolkit/)'s oathtool(1) to generate the
+Toolkit](http://www.nongnu.org/oath-toolkit/)'s oathtool to generate the
 token.
 
 
